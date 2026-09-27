@@ -56,4 +56,11 @@ pip install streamlit
 
 streamlit run app.py
 
+## 👤 Team Member
+
+**Dhikshitha Chilimikoti**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dhikshitha-chilimikoti-3b33653b0/
+- 💻 GitHub: https://github.com/Dhikshitha08
+
 
